@@ -24,7 +24,7 @@ I'm a passionate **web developer, aspiring software engineer, and tech advocate*
 ## 🚀 Projects
 Here are some of my key projects:
 
-### [Web Development Projects](https://github.com/yourusername?tab=repositories)
+### [Web Development Projects](https://github.com/april07-pi) 
 - Portfolio websites, landing pages, and small business web solutions  
 
 ### RAG AI Assistant
