@@ -5,7 +5,7 @@ I'm a passionate **web developer, aspiring software engineer, and tech advocate*
 ---
 
 ## 🌟 About Me
-- Promoting **tech education** for Black mothers and girls through [https://learn-code-za.preview.emergentagent.com/)  
+- Promoting **tech education** for Black mothers and girls through [kodemamas] (https://learn-code-za.preview.emergentagent.com/)  
 - Enthusiastic about **AI, machine learning**, and their applications in solving real-world problems  
 - Focused on **web development**, software projects, and innovative coding solutions  
 - Active participant in **hackathons and coding challenges** like Zindi  
