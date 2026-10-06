@@ -1,12 +1,12 @@
-Nokwazi Nobuhle Xaba
+5 Nokwazi Nobuhle Xaba
 Software Developer • Student Founder • IT & Computer Science
 
 South African developer building accessible technology
 for education, opportunity and digital inclusion.
 
 CURRENTLY BUILDING
-→ KodeMamas
-→ YouthConnect
+→ KodeMamas https://play.google.com/store/apps/details?id=com.aistudio.kodemamas.hftxyz
+→clinik buddy 
 
 TECHNOLOGIES
 Kotlin • Jetpack Compose • Android
