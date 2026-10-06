@@ -1,39 +1,36 @@
-# Hi there, I'm Nokwazi Nobuhle Xaba 👋
+Nokwazi Nobuhle Xaba
+Software Developer • Student Founder • IT & Computer Science
 
-I'm a passionate **web developer, aspiring software engineer, and tech advocate** from South Africa. I love building projects that make a real impact, especially in empowering underrepresented communities to learn coding and technology.
+South African developer building accessible technology
+for education, opportunity and digital inclusion.
 
----
+CURRENTLY BUILDING
+→ KodeMamas
+→ YouthConnect
 
-## 🌟 About Me
-- Promoting **tech education** for Black mothers and girls through [kodemamas] (https://learn-code-za.preview.emergentagent.com/)  
-- Enthusiastic about **AI, machine learning**, and their applications in solving real-world problems  
-- Focused on **web development**, software projects, and innovative coding solutions  
-- Active participant in **hackathons and coding challenges** like Zindi  
+TECHNOLOGIES
+Kotlin • Jetpack Compose • Android
+Python • JavaScript • React
+Firebase • Room • REST APIs
+Git • GitHub • AI APIs
 
----
+FEATURED PROJECTS
 
-## 💻 Tech Skills
-- **Web Development**: HTML, CSS, JavaScript  
-- **Programming & Software Development**: Python, general coding projects  
-- **AI & Data Science**: RAG AI assistants, data analysis projects  
-- **Tools & Platforms**: GitHub, LinkedIn, Zindi, VS Code  
-- **Advocacy**: Digital inclusion, women in tech, community coding programs  
+KodeMamas
+Multilingual, offline-first coding education platform...
 
----
+YouthConnect
+South African youth opportunity platform...
 
-## 🚀 Projects
-Here are some of my key projects:
+KodeMamas Website
+Web platform supporting the KodeMamas ecosystem...
 
-### [Web Development Projects](https://github.com/april07-pi) 
-- Portfolio websites, landing pages, and small business web solutions  
-
-### RAG AI Assistant
-- Built an AI assistant for research and knowledge management  
-- Focused on **retrieval-augmented generation (RAG)** techniques  
-
-### Coding Challenges
-- Participated in **Zindi competitions**, solving real-world AI and data problems  
-
+WHAT I'M LEARNING
+...📱 Android
+🌐 Web
+🧠 AI
+🔐 Cybersecurity
+🇿🇦 Digital inclusion
 ---
 
 ## 📫 Connect with Me
