@@ -1,4 +1,4 @@
-5 Nokwazi Nobuhle Xaba
+ Nokwazi Nobuhle Xaba
 Software Developer • Student Founder • IT & Computer Science
 
 South African developer building accessible technology
